@@ -171,7 +171,7 @@ const LandingPage: React.FC = () => {
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(212,175,55,0.25),transparent_65%)]" />
               <div className="relative h-72 sm:h-80 md:h-96">
                 <img
-                  src="/images/avitolog-portrait.png"
+                  src="images/avitolog-portrait.png"
                   alt="Частный авитолог Савелий Докучаев"
                   className="h-full w-full object-cover"
                 />
@@ -444,7 +444,7 @@ const LandingPage: React.FC = () => {
                 className="mt-4 overflow-hidden rounded-xl border border-[#d4af37]/70 bg-black/60 transition-all duration-700 ease-out"
               >
                 <img
-                  src="/images/case-7m-proof.png"
+                  src="images/case-7m-proof.png"
                   alt="Подтверждение выручки 7 000 000 ₽ на Avito"
                   className="h-32 w-full object-cover"
                 />
@@ -599,7 +599,7 @@ const LandingPage: React.FC = () => {
             >
               <div className="relative h-10 w-10 flex-shrink-0 overflow-hidden rounded-full border border-[#d4af37]/70 bg-zinc-900">
                 <img
-                  src="/images/image_7.png"
+                  src="images/image_7.png"
                   alt="Иконка финансовых гарантий и договора"
                   className="h-full w-full object-cover"
                 />
